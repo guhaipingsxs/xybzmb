@@ -2,7 +2,7 @@ spring:
   application:
     name: userservice
   datasource:
-    url: jdbc:mysql://localhost/school
+    url: jdbc:mysql://localhost/qwer
     password: ps123456
     driver-class-name: com.mysql.jdbc.Driver
     username: root
